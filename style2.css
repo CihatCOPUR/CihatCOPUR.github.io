@@ -13,5 +13,9 @@ section{
 }
 #lang-list{
 border-radius: 5%;
+display: flex;
+justify-content: center;
+margin-left: -18rem;
+
 
 }
